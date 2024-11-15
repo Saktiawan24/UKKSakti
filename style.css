@@ -15,7 +15,7 @@ body {
     margin-left: 20px;
 }
 header {
-    background-color: #CBD2A4;
+    background-color: #EA5C2B;
     padding: 20px;
 }
 
@@ -41,8 +41,8 @@ nav a {
 }
 
 .btn-order {
-    background-color: #e424c4;
-    color: white;
+    background-color: #F8DE22;
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
     border-radius: 5px;
 }
@@ -53,7 +53,8 @@ nav a {
     align-items: center;
     justify-content: space-between;
     padding: 40px;
-    background-color: #F3FF90;
+    background-color: #FF7F3F;
+
 }
 
 .hero-image {
@@ -83,7 +84,7 @@ nav a {
 /* Products Section */
 #products h2 {
     padding: 40px 0 0 40px;
-    background-color: #A02334;
+    background-color: #FA4032;
 }
 
 .product-list {
@@ -91,7 +92,7 @@ nav a {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 40px 0;
-    background-color: #F9E400;
+    background-color: #F6D860;
 }
 
 .product {
@@ -107,7 +108,7 @@ nav a {
 }
 /* Testimonials Section */
 #testimonials {
-    background-color: rgb(103, 199, 255);
+    background-color: #95CD41;
     padding: 40px;
     text-align: center;
 }
@@ -132,7 +133,7 @@ nav a {
 #contact {
     padding: 40px;
     text-align: center;
-    background-color: rgb(0, 255, 157);
+    background-color: #C37B89;
 }
 
 form input,
